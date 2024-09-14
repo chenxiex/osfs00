@@ -1,5 +1,6 @@
 Operating System From Scratch
 =============================
+This fork aims to use qemu on a modern x64 system instead of bochs.
 
 This is not one project.
 This is a project series.
@@ -40,8 +41,8 @@ Prof. Tanenbaum tells you what. I'll tell you how.
 
 Click here_ to begin your OS journey.
 
-.. _here: https://github.com/yyu/osfs01
-.. _`Step 01: A smallest "OS"`: https://github.com/yyu/osfs01
+.. _here: https://github.com/chenxiex/osfs01
+.. _`Step 01: A smallest "OS"`: https://github.com/chenxiex/osfs01
 .. _`Step 02: Setup the development environment`: https://github.com/yyu/osfs02
 .. _`Step 03: x86 Protect Mode`: https://github.com/yyu/osfs03
 .. _`Step 04: Boot loader`: https://github.com/yyu/osfs04
