@@ -1,6 +1,7 @@
 Operating System From Scratch
 =============================
-This fork aims to use qemu on a modern x64 system instead of bochs.
+This fork aims to use qemu on a modern x64 system instead of bochs. 
+This work is still in progress, with the newest progress in Step 02.
 
 This is not one project.
 This is a project series.
