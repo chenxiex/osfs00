@@ -1,6 +1,6 @@
 Operating System From Scratch
 =============================
-This fork aims to use qemu on a modern x64 system instead of bochs. 
+This fork aims to use qemu on a modern x64 system instead of bochs. Check `Tips&Tricks.md`_ for help.
 This work is still in progress, with the newest progress in Step 03.
 
 This is not one project.
@@ -54,3 +54,4 @@ Click here_ to begin your OS journey.
 .. _`Step 09: File System`: https://github.com/yyu/osfs09
 .. _`Step 10: Memory Management`: https://github.com/yyu/osfs10
 .. _`Step 11: Learn with fun`: https://github.com/yyu/osfs11
+.. _`Tips&Tricks.md`: https://github.com/chenxiex/osfs00/blob/qemu/Tips&Tricks.md
