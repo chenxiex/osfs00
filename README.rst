@@ -46,7 +46,7 @@ Click here_ to begin your OS journey.
 .. _`Step 01: A smallest "OS"`: https://github.com/chenxiex/osfs01
 .. _`Step 02: Setup the development environment`: https://github.com/chenxiex/osfs02
 .. _`Step 03: x86 Protect Mode`: https://github.com/chenxiex/osfs03
-.. _`Step 04: Boot loader`: https://github.com/yyu/osfs04
+.. _`Step 04: Boot loader`: https://github.com/chenxiex/osfs04
 .. _`Step 05: Kernel`: https://github.com/yyu/osfs05
 .. _`Step 06: Process`: https://github.com/yyu/osfs06
 .. _`Step 07: TTYs`: https://github.com/yyu/osfs07
